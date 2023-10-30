@@ -67,6 +67,9 @@ graph LR
     C --> D[Echar el huevo en la sartén]
 ```
 
+![Alt text](image-1.png)
+
+
 **Diagrama de flujo para calcular el área de un círculo:**
 ```mermaid
 graph LR
